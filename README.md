@@ -6,7 +6,7 @@ This challenge comes in hard but I don’t think so this should be in this crite
 
 When you open this challenge you will see some hint and the cipher.
 
-“Did you know that you can hide messages with symbols? For example, !@#$%^&*( is 123456789!<br /> Now Try: ^&,*$,&),!@#,*#,!!^,(&,!!$,(%,$^,(%,*&,(&,!!$,!!%,(%,$^,(%,&),!!!,!!$,(%,$^,(%,&^,!)%,!)@,!)!,!@% However, this isn't as easy as you might think.”
+“Did you know that you can hide messages with symbols? For example, !@#$%^&*( is 123456789!<br /> Now Try: *% *% (% %) !)& %) %! !@# &! !)! !!^ (% (& (% !)# !)% !)@ !!^ (% !)@ !!$ !!! !)( (% %@ !)& %@ %# !)$ !@% However, this isn't as easy as you might think.”
 
 When you will see the hint you get to know that !=1 and @=2 and #=3 and so on. These are given on the upper numeric pad of keyboard.
 
