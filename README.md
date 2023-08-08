@@ -14,10 +14,12 @@ https://prnt.sc/LsYyCsCGdU0D
 
 But there is twist in cipher as there is comma(,) after two or three characters. But if you will print it with comma you can’t decode it further . So I used space(‘ ‘) instead of comma(,) to decode it. You can do it using pen and paper but I decode it using python :
 
-
+Symbolic-Decimals-Ctflearn.py
+https://github.com/Jubayerahmed24/Symbolic-Decimals-Ctflearn/blob/main/Symbolic-Decimals-Ctflearn.py
 
 When you will run the program you will get this:
 
+85 85 95 50 107 50 51 123 71 101 116 95 97 95 103 105 102 116 95 102 114 111 109 95 52 107 52 53 104 125
 
 As you can see this is encoded in decimal. To decode this I used this website
 
